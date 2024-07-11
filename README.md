@@ -13,6 +13,8 @@ The main components of the project are as follows:
 4. **Circumference Prediction**: Training a regression model to predict waist, hip, and neck circumference.
 5. **Body Composition Calculation**: Applying formulas to calculate various body composition metrics.
 
+![picture alt](project.png)
+
 ## Dataset
 
 ### BodyM Dataset
